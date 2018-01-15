@@ -14,6 +14,10 @@ var zipcode = require('zipcode');
 zipcode.lookup('94122'); // ['SAN FRANCISCO','CA']
 ```
 
+## Changelog
+
+Distributed using the browserify
+
 ## License
 
 MIT

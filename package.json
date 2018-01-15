@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/devongovett/zipcode/issues"
   },
-  "homepage": "https://github.com/devongovett/zipcode"
+  "homepage": "https://github.com/devongovett/zipcode",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bro": "^1.0.2"
+  }
 }
